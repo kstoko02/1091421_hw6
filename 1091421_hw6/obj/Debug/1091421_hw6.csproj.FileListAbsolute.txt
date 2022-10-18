@@ -1,0 +1,10 @@
+C:\Users\katya\source\repos\1091421_hw6\1091421_hw6\bin\Debug\1091421_hw6.exe.config
+C:\Users\katya\source\repos\1091421_hw6\1091421_hw6\bin\Debug\1091421_hw6.exe
+C:\Users\katya\source\repos\1091421_hw6\1091421_hw6\bin\Debug\1091421_hw6.pdb
+C:\Users\katya\source\repos\1091421_hw6\1091421_hw6\obj\Debug\1091421_hw6.csproj.AssemblyReference.cache
+C:\Users\katya\source\repos\1091421_hw6\1091421_hw6\obj\Debug\_1091421_hw6.Form1.resources
+C:\Users\katya\source\repos\1091421_hw6\1091421_hw6\obj\Debug\_1091421_hw6.Properties.Resources.resources
+C:\Users\katya\source\repos\1091421_hw6\1091421_hw6\obj\Debug\1091421_hw6.csproj.GenerateResource.cache
+C:\Users\katya\source\repos\1091421_hw6\1091421_hw6\obj\Debug\1091421_hw6.csproj.CoreCompileInputs.cache
+C:\Users\katya\source\repos\1091421_hw6\1091421_hw6\obj\Debug\1091421_hw6.exe
+C:\Users\katya\source\repos\1091421_hw6\1091421_hw6\obj\Debug\1091421_hw6.pdb
